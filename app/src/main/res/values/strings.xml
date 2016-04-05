@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Creating Flexible UI Fragments</string>
+    <string-array name="heading">
+        <item>heading1</item>
+        <item>heading2</item>
+        <item>heading3</item>
+        <item>heading4</item>
+        <item>heading5</item>
+        <item>heading6</item>
+        <item>heading7</item>
+        <item>heading8</item>
+        <item>heading9</item>
+        <item>heading10</item>
+        <item>heading11</item>
+        <item>heading12</item>
+    </string-array>
+    <string-array name="description">
+        <item>description1</item>
+        <item>description2</item>
+        <item>description3</item>
+        <item>description4</item>
+        <item>description5</item>
+        <item>description6</item>
+        <item>description7</item>
+        <item>description8</item>
+        <item>description9</item>
+        <item>description10</item>
+        <item>description11</item>
+        <item>description12</item>
+    </string-array>
+
+</resources>
